@@ -73,7 +73,7 @@ The app follows the standard Flutter project structure. Key directories:
 
 | Alerts List Screen                        | Alert Screen                             | Awareness Screen                          |
 |-------------------------------------------|------------------------------------------|-------------------------------------------|
-| ![Alerts List Screen](screenshots/alerts_list.png) | ![Alert Screen](screenshots/alert.png) | ![Awareness Screen](screenshots/awareness.png) |
+| ![Alerts List Screen](screenshots/alearts_list.png) | ![Alert Screen](screenshots/alert.png) | ![Awareness Screen](screenshots/awarness.png) |
 
 | Double Verification Screen                | Feedback Screen                          | Home Screen                               |
 |-------------------------------------------|------------------------------------------|-------------------------------------------|
